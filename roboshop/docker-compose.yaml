@@ -90,10 +90,3 @@ services:
     container_name: ratings
     depends_on:
       - mysql
-    
-<<<<<<< HEAD
- 
-
-
-=======
->>>>>>> 2c04a84be8be55fe387f9ed005253bced31e62c9
