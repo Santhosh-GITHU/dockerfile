@@ -47,8 +47,3 @@ Services:
     depends_on:
       - mongodb
       - redis
-
-      
-
-
-    
